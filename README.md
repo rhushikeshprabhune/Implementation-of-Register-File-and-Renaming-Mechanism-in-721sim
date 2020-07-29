@@ -1,4 +1,4 @@
-# Register-File-and-Renaming-Mechanism-in-721sim
+# Implementation-of-Register-File-and-Renaming-Mechanism-in-721sim
 1) Implemented a register file and renaming mechanism for RISC-V out-of-order superscalar processor in C++ by designing
 components required for the stage.
 
